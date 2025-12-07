@@ -9,3 +9,4 @@
 - [Тема 4. Функции](data/homework/HW4.ipynb)
 - [Тема 5. Основы Git](data/homework/HW5.ipynb)
 - [Тема 6. Работа с файлами и пакетами](data/homework/HW6.ipynb)
+- [Тема 7. Время и даты в Python](data/homework/HW7.ipynb)
