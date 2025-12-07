@@ -8,3 +8,4 @@
 - [Тема 3. Управляющие конструкции и коллекции. Часть 2](data/homework/HW3.ipynb)
 - [Тема 4. Функции](data/homework/HW4.ipynb)
 - [Тема 5. Основы Git](data/homework/HW5.ipynb)
+- [Тема 6. Работа с файлами и пакетами](data/homework/HW6.ipynb)

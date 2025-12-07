@@ -4,3 +4,4 @@ Makefile
 
 data/*
 !data/homework/
+data/homework/data
