@@ -11,3 +11,4 @@
 - [Тема 6. Работа с файлами и пакетами](data/homework/HW6.ipynb)
 - [Тема 7. Время и даты в Python](data/homework/HW7.ipynb)
 - [Тема 8. Понятие класса](data/homework/HW8.ipynb)
+- [Тема 10. Регулярные выражения и основы синтаксического разбора](data/homework/HW9.ipynb)
