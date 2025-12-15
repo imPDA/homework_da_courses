@@ -13,3 +13,4 @@
 - [Тема 8. Понятие класса](data/homework/HW8.ipynb)
 - [Тема 10. Регулярные выражения и основы синтаксического разбора](data/homework/HW9.ipynb)
 - [Тема 11. Библиотека Pandas](data/homework/HW10.ipynb)
+- [Тема 12. Функции и работа с данными](data/homework/HW11.ipynb)
